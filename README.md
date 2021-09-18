@@ -28,13 +28,23 @@
 
 ## 📫 You can also find me on
 
-[<img align="left" alt="vinayakam19 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="vinayakam19 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="vinayakam19 | Gmail" width="40px" src="https://img.icons8.com/color/gmail.png" />][gmail]
+[<img align="left" alt="vinayakam19 | github" width="40px" src="https://img.icons8.com/color/github.png" />][github]
 
 <br>
 
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/vinayakam19
+[gmail] : mailto:vinayakam19@gmail.com
+[github] : https://www.github.com/vinayakam19
+
+## Profile Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" /></p>
 
 <!--
 **Vinayakam19/Vinayakam19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
