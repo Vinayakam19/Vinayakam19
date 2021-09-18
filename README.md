@@ -1,4 +1,4 @@
-<h1> Hi there <img src="./Icons/Hi.gif" height="32" /> Welcome to my github page :sunglasses: ! </h1>
+<h1> Hi there <https://tenor.com/bEAlI.gif> Welcome to my github page :sunglasses: ! </h1>
 
 ## 🚀 About Me
 👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne.
