@@ -49,9 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" />
-</p>
-
-<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" />
 </p>
 
