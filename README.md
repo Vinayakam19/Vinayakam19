@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github page :sunglasses: ! 
+
+## 🚀 About Me
+👨‍🎓 I am Vinayaka, currently pursuing my Masters in Data Science at Deakin University, Melbourne.
+
+✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
+
+## 🎯 Areas of Interest
+- Machine Learning
+- Deep Learning
+- AIOps
+- Cybersecurity
+
+## My Hobbies and interests -
+* Cooking
+* Movies
+* Xbox Games
+
 
 <!--
 **Vinayakam19/Vinayakam19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
