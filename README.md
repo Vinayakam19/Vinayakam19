@@ -43,13 +43,17 @@
 
 ## Profile Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" /> 
+</p>
 
 <p align="center">
   <src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" />
-  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" />
 </p>
 
+<p align="right">
+  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" />
+</p>
 
 <!--
 **Vinayakam19/Vinayakam19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
