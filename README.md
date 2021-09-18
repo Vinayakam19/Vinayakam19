@@ -42,7 +42,8 @@
 ## &#x1f4c8; Profile Stats
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" /> 
+  <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" />                         
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vinayakam19" alt="Visitors">                     
 </p>
 
 <p align="left">
