@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my github page :sunglasses: ! 
+<h1> Hi there 👋 Welcome to my github page :sunglasses: ! </h1>
 
 ## 🚀 About Me
 👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne.
