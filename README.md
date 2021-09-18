@@ -30,6 +30,7 @@
 [<img align="left" alt="vinayakam19 | github" width="40px" src="https://img.icons8.com/color/github" />][github]
 
 <br>
+<br>
 
 
 [linkedin]: https://www.linkedin.com/in/vinayakam19
