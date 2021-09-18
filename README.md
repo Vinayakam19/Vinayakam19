@@ -46,9 +46,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" /> </p>
 
-<p><img align="center"> <src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" /></p>
 
-<p><img align="right"> <src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" /></p>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10"> -->
 
