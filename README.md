@@ -27,7 +27,8 @@
 </p>
 
 
-## 📫 You can also find me on
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> You can also find me on
 
 [<img align="left" alt="vinayakam19 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="vinayakam19 | Gmail" width="40px" src="https://img.icons8.com/color/gmail" />][gmail]
@@ -40,6 +41,8 @@
 [linkedin]: https://www.linkedin.com/in/vinayakam19
 [gmail]: mailto:vinayakam19@gmail.com
 [github]: https://www.github.com/vinayakam19
+
+
 
 ## &#x1f4c8; Profile Stats
 
