@@ -11,7 +11,7 @@
 
 ## 🎯 Areas of Interest
 - Machine Learning
-- Data Analysis
+- Data Mining and Data Analysis
 - Deep Learning
 - AIOps
 - Cybersecurity
