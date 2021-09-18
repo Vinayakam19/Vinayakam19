@@ -29,8 +29,8 @@
 ## 📫 You can also find me on
 
 [<img align="left" alt="vinayakam19 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="vinayakam19 | Gmail" width="40px" src="https://img.icons8.com/color/gmail.png" />][gmail]
-[<img align="left" alt="vinayakam19 | github" width="40px" src="https://img.icons8.com/color/github.png" />][github]
+[<img align="left" alt="vinayakam19 | Gmail" width="40px" src="https://img.icons8.com/color/gmail" />][gmail]
+[<img align="left" alt="vinayakam19 | github" width="40px" src="https://img.icons8.com/color/github" />][github]
 
 <br>
 
