@@ -1,4 +1,4 @@
-<h1> Hi there 👋 Nice to see you :sunglasses: ! </h1>
+<h1> Hi there 👋 Nice to see you on my Github page :sunglasses: ! </h1>
 
 ## 🚀 About Me
 👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne.
