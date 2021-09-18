@@ -1,11 +1,11 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Nice to see you on my Github page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 ## 🚀 About Me
-👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne.
+👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne, Australia.
 
 :office: Worked as a Software Enigneer at Tata consultancy Services, Bangalore.
 
-:man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore
+:man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
