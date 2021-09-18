@@ -9,7 +9,7 @@
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
-⚡ Fun fact: I like cooking, movies and play lot of Xbox titles.
+⚡ Fun fact: I like cooking food, watching movies and play lot of Xbox titles.
 
 ## 🎯 Areas of Interest
 - Machine Learning
