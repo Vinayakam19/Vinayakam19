@@ -53,7 +53,7 @@
 
 <p align="center">
     Show ❤️ by starring and forking repositories you find good! <br>
-    Wear a <img src = "https://emojis.slackmojis.com/emojis/images/1620847010/38349/mask.png?1620847010" alt="masks" width="20" height="20" /> and take your <img src ="https://emojis.slackmojis.com/emojis/images/1622050776/41534/vaccine.png?1622050776" alt="vaccine />
+    Wear a <img src = "https://emojis.slackmojis.com/emojis/images/1620847010/38349/mask.png?1620847010" alt="masks" width="20" height="20" /> and take your <img src ="https://emojis.slackmojis.com/emojis/images/1622050776/41534/vaccine.png?1622050776" alt="vaccine" width="20" height="20" />
   </p>
 </p>
 
