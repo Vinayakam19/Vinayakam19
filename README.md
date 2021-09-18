@@ -49,7 +49,7 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&layout=compact&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10&card_width=525" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&layout=compact&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10&card_width=200" />
 </p>
 
 <!--
