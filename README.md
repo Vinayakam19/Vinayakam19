@@ -34,7 +34,7 @@
 
 [linkedin]: https://www.linkedin.com/in/vinayakam19
 [gmail]: mailto:vinayakam19@gmail.com
-[github]: https://www.github.com/vinayakam19
+[github]: https://github.com/Vinayakam19
 
 
 
