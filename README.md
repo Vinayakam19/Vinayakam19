@@ -3,7 +3,7 @@
 ## 🚀 About Me
 👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne, Australia.
 
-:office: Worked as a Software Enigneer at Tata consultancy Services, Bangalore.
+:office: Worked as a Software Enigneer at Tata consultancy Services, Bangalore, India.
 
 :man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India
 
