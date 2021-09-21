@@ -9,7 +9,7 @@
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
-⚡ Fun fact: I like cooking food, watching movies and play lot of Xbox titles.
+⚡ Fun fact: I like cooking food, ❤️ watching movies and play Xbox titles a lot :).
 
 ## 🎯 Areas of Interest
 - Machine Learning
@@ -58,6 +58,7 @@
 <p align="center">
     Show ❤️ by starring and forking repositories you find good! <br>
     Wear a <img src = "https://emojis.slackmojis.com/emojis/images/1620847010/38349/mask.png?1620847010" alt="masks" width="20" height="20" /> and take your <img src ="https://emojis.slackmojis.com/emojis/images/1622050776/41534/vaccine.png?1622050776" alt="vaccine" width="20" height="20" />. <img src = "https://emojis.slackmojis.com/emojis/images/1615426819/19573/thankyou.gif?1615426819" width="20" height="20" />
+ Note : Most used languages doesn't indicate my skillset, it's a github metric of which languages I have the most code on the github. These languages can change in future.
   </p>
 </p>
 
