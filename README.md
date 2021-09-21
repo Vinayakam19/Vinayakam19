@@ -3,13 +3,18 @@
 ## 🚀 About Me
 👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne, Australia.
 
-:office: Worked as a Software Enigneer at Tata consultancy Services, Bangalore, India.
+:office: Previosuly Worked as a Software Enigneer at Tata consultancy Services, Bangalore, India.
 
-:man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India
+<!-- :man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India -->
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
 ⚡ Fun fact: I like cooking food, ❤️ watching movies and play Xbox titles a lot :).
+
+## 💻 I'm currently learning
+- SIT 716 Computer Networks and Security
+- SIT 799 Human Aligned Artificial Intelligence
+- SIT 723 Research Project
 
 ## 🎯 Areas of Interest
 - Machine Learning
