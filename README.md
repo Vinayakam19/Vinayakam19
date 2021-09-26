@@ -15,6 +15,7 @@
 - SIT 716 Computer Networks and Security
 - SIT 799 Human Aligned Artificial Intelligence
 - SIT 723 Research Project
+- AI Operations
 
 ## 🎯 Areas of Interest
 - Machine Learning
