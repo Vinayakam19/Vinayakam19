@@ -21,7 +21,7 @@
 - Machine Learning
 - Data Mining and Data Analysis
 - Deep Learning
-- AI Operations (AIOps/MLOps)
+- AI Operations (AI Ops/ML Ops)
 - Cybersecurity
 
 ## 🔧 Tools and technologies
