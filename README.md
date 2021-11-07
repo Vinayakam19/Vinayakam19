@@ -12,9 +12,7 @@
 ⚡ Fun fact: I like cooking food, ❤️ watching movies and play Xbox titles a lot :).
 
 ## 💻 I'm currently learning
-- SIT 716 Computer Networks and Security
-- SIT 799 Human Aligned Artificial Intelligence
-- SIT 723 Research Project
+
 - AI Operations
 
 ## 🎯 Areas of Interest
