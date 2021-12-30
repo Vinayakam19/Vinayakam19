@@ -60,7 +60,6 @@
 </p>
 
 <p align="center">
-    Show ❤️ by starring and forking repositories you find good! <br>
     Wear a <img src = "https://emojis.slackmojis.com/emojis/images/1620847010/38349/mask.png?1620847010" alt="masks" width="20" height="20" /> and take your <img src ="https://emojis.slackmojis.com/emojis/images/1622050776/41534/vaccine.png?1622050776" alt="vaccine" width="20" height="20" />. <img src = "https://emojis.slackmojis.com/emojis/images/1615426819/19573/thankyou.gif?1615426819" width="20" height="20" /><br>
  Note : Most used languages doesn't indicate my skillset, it's a github metric of which languages I have the most code on the github. These languages can change in future.
   </p>
