@@ -7,7 +7,7 @@
 
 <!-- :man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India -->
 
-✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world
+✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
 ## 💻 I'm currently learning
 
