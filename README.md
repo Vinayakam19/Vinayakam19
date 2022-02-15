@@ -30,17 +30,17 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> You can also find me on
 
-[<img align="left" alt="vinayakam19 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="vinayakam19 | Gmail" width="40px" src="https://img.icons8.com/color/gmail" />][gmail]
-[<img align="left" alt="vinayakam19 | github" width="40px" src="https://img.icons8.com/color/github" />][github]
+[<img align="left" alt="vmalgi| LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="vmalgi | Gmail" width="40px" src="https://img.icons8.com/color/gmail" />][gmail]
+[<img align="left" alt="vmalgi | github" width="40px" src="https://img.icons8.com/color/github" />][github]
 
 <br>
 <br>
 
 
-[linkedin]: https://www.linkedin.com/in/vinayakam19
+[linkedin]: https://www.linkedin.com/in/vinayaka.malgi
 [gmail]: mailto:vinayakam19@gmail.com
-[github]: https://github.com/Vinayakam19
+[github]: https://github.com/vmalgi
 
 
 
@@ -48,13 +48,13 @@
 ## &#x1f4c8; Profile Stats
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vinayakam19&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakam19" />                         
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vinayakam19" alt="Visitors">                     
+  <img src="https://komarev.com/ghpvc/?username=vmalgi&label=Profile%20views&color=0e75b6&style=flat" alt="vmalgi" />                         
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vmalgi" alt="Visitors">                     
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakam19&" alt="vinayakam19" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakam19&layout=compact&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmalgi&" alt="vmalgi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmalgi&layout=compact&count_private=true&hide=html,scss,,ejs&theme=default&line_height=10" />
 </p>
 
 <p align="center">
