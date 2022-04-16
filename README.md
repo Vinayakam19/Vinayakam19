@@ -1,7 +1,7 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 ## 🚀 About Me
-👨‍🎓 I am Vinayaka, currently pursuing Masters in Data Science at Deakin University, Melbourne, Australia.
+👨‍🎓 I am Vinayaka, a Master's graduate in Data Science from Deakin University, Melbourne, Australia.
 
 :office: Previosuly Worked as a Data Analyst, Bangalore, India.
 
