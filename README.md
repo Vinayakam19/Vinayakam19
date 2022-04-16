@@ -9,7 +9,7 @@
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
-My research interests covers Machine Learning and Deep Learning, focusing on kernel methods for Support Vector Machine (SVM).
+My research interests covers Machine Learning and Deep Learning, focusing on kernel methods for Support Vector Machine classifer (SVM).
 
 
 ## 💻 I'm currently learning
