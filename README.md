@@ -5,6 +5,8 @@
 
 :office: Previosuly Worked as a Data Analyst, Bangalore, India.
 
+:office: Currently working as a Senior Data Scientist for a Fortune 100 company.
+
 <!-- :man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India -->
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
