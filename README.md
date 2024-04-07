@@ -9,7 +9,7 @@
 
 ✨ I love to explore AI and try to build a strong connection between theoretical and practical scenarios in today's digital world.
 
-My research interests covers Machine Learning, focusing on kernel methods for Support Vector Machine classifer (SVM) and Dimensionality Reduction techniques.
+My research interests covers Machine Learning, focusing on kernel similarity methods for Large Margin classifiers like Support Vector Machine classifer (SVM) and Dimensionality Reduction techniques.
 
 
 ## 💻 I'm currently learning
