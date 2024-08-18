@@ -3,7 +3,7 @@
 ## 🚀 About Me
 👨‍🎓 I am Vinayaka, a Master's graduate in Data Science from Deakin University, Melbourne, Australia.
 
-:office: Previosuly Worked as a Market Risk Data Analyst in areas of Market Risk for an investment banking company based out of Zurich Switzerland in Bangalore, India.
+:office: Previosuly Worked as a Market Risk Data Analyst in areas of Market Risk and Credit Risk for an investment banking company based out of Zurich Switzerland in Bangalore, India.
 
 :office: Previosuly Worked as a Data Scientist for a Consultancy company in the area of Machine Learning for 5G Networks.
 
