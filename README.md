@@ -7,7 +7,7 @@
 
 :office: Previosuly Worked as a Data Scientist for a Consultancy company in the area of Machine Learning for 5G Networks.
 
-:office: Currently working as a Senior Data Scientist for a Fortune 100 Product based company.
+:office: Currently working as a Senior Data Scientist for a Fortune 100 Product based company in area of parts Return Merchandise Authorisation (RMA) and supply chain logisitics.
 
 <!-- :man_student: I Completed my Bachelors in Information Science and Engineering from Sri Jayachamarajendra College of Engineering, Mysore, India -->
 
